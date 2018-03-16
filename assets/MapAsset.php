@@ -18,6 +18,7 @@ class MapAsset extends AssetBundle {
 	];
 	public $js = [
 		'dist/jquery.vmap.js',
+		'dist/maps/jquery.vmap.world.js',
 	];
 
 }
