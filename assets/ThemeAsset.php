@@ -18,5 +18,6 @@ class ThemeAsset extends AssetBundle
         'yiister\gentelella\assets\BootstrapProgressbar',
         'yiister\gentelella\assets\ThemeBuildAsset',
         'yiister\gentelella\assets\ThemeSrcAsset',
+        'yiister\gentelella\assets\MapAsset',
     ];
 }
