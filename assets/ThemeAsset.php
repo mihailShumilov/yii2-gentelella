@@ -20,5 +20,6 @@ class ThemeAsset extends AssetBundle
         'yiister\gentelella\assets\ThemeSrcAsset',
         'yiister\gentelella\assets\MapAsset',
 	    'yiister\gentelella\assets\ChartsAsset',
+	    'yiister\gentelella\assets\BowerExtensionAsset',
     ];
 }
