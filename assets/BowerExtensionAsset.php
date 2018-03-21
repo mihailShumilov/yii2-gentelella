@@ -18,7 +18,7 @@ class BowerExtensionAsset extends AssetBundle {
 		'bootstrap-daterangepicker/daterangepicker.css'
 	];
 	public $js = [
-		'bootstrap-daterangepicker/daterangepicker.js',
-		'moment/min/moment-with-locales.min.js'
+		'moment/min/moment-with-locales.min.js',
+		'bootstrap-daterangepicker/daterangepicker.js'
 	];
 }
