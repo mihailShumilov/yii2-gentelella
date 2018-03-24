@@ -17,13 +17,15 @@ class BowerExtensionAsset extends AssetBundle {
 	public $css = [
 		'bootstrap-daterangepicker/daterangepicker.css',
 		'datatables.net-bs/css/dataTables.bootstrap.min.css',
-		'jquery.tagsinput/src/jquery.tagsinput.css'
+		'jquery.tagsinput/src/jquery.tagsinput.css',
+		'iCheck/skins/all.css'
 	];
 	public $js = [
 		'moment/min/moment-with-locales.min.js',
 		'bootstrap-daterangepicker/daterangepicker.js',
 		'datatables.net/js/jquery.dataTables.min.js',
 		'datatables.net-bs/js/dataTables.bootstrap.min.js',
-		'jquery.tagsinput/src/jquery.tagsinput.js'
+		'jquery.tagsinput/src/jquery.tagsinput.js',
+		'iCheck/icheck.min.js'
 	];
 }
