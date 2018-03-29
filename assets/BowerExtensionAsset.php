@@ -18,7 +18,10 @@ class BowerExtensionAsset extends AssetBundle {
 		'bootstrap-daterangepicker/daterangepicker.css',
 		'datatables.net-bs/css/dataTables.bootstrap.min.css',
 		'jquery.tagsinput/src/jquery.tagsinput.css',
-		'iCheck/skins/all.css'
+		'iCheck/skins/all.css',
+		'nprogress/nprogress.css',
+		'dropzone/dist/min/dropzone.min.css',
+		'dropzone/dist/min/basic.min.css'
 	];
 	public $js = [
 		'moment/min/moment-with-locales.min.js',
@@ -26,6 +29,9 @@ class BowerExtensionAsset extends AssetBundle {
 		'datatables.net/js/jquery.dataTables.min.js',
 		'datatables.net-bs/js/dataTables.bootstrap.min.js',
 		'jquery.tagsinput/src/jquery.tagsinput.js',
-		'iCheck/icheck.min.js'
+		'iCheck/icheck.min.js',
+		'fastclick/lib/fastclick.js',
+		'nprogress/nprogress.js',
+		'dropzone/dist/min/dropzone.min.js'
 	];
 }
