@@ -34,6 +34,7 @@ class BowerExtensionAsset extends AssetBundle {
 		'iCheck/icheck.min.js',
 		'fastclick/lib/fastclick.js',
 		'nprogress/nprogress.js',
-		'dropzone/dist/min/dropzone.min.js'
+		'dropzone/dist/min/dropzone.min.js',
+		'devbridge-autocomplete/dist/jquery.autocomplete.min.js'
 	];
 }
